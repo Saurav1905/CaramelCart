@@ -1,0 +1,43 @@
+[
+  {
+    "id": 7,
+    "title": "Course A",
+
+    "description": "A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available.",
+    "price": 2500
+  },
+  {
+    "id": 8,
+    "title": "Course B",
+
+    "description": "A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available.",
+    "price": 3000
+  },
+  {
+    "id": 0,
+    "title": "Course C",
+
+    "description": "A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available.",
+    "price": 1500
+  },
+  {
+    "id": 10,
+    "title": "Course D",
+
+    "description": "A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available.",
+    "price": 1000
+  },
+  {
+    "id": 11,
+    "title": "Course E",
+
+    "description": "A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available.",
+    "price": 1500
+  },
+  {
+    "id": 12,
+    "title": "Course F",
+    "description": "A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available.",
+    "price": 1000
+  }
+]

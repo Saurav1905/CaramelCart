@@ -1,0 +1,37 @@
+[
+  {
+    "title": "React_Course",
+
+    "description": "A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available.",
+    "price": 2500
+  },
+  {
+    "title": "Angular_Course",
+
+    "description": "A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available.",
+    "price": 3000
+  },
+  {
+    "title": "Redux_Course",
+
+    "description": "A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available.",
+    "price": 1500
+  },
+  {
+    "title": "Front-End_Course",
+
+    "description": "A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available.",
+    "price": 1000
+  },
+  {
+    "title": "Node_Course",
+
+    "description": "A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available.",
+    "price": 1500
+  },
+  {
+    "title": "AWS_Course",
+    "description": "A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available.",
+    "price": 1000
+  }
+]
